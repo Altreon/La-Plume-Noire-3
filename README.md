@@ -6,4 +6,4 @@ Aventure interactive réalisée en collaboration avec un auteur.</br>
 Disponible sur système d'exploitation Android, Windows, MacOsX, et Linux.</br>
 </br>
 Plus d'informations et téléchargement disponible sur mon portfolio:
-https://portoliomatteobrandi.wordpress.com/portfolio/la-plume-noire-3-lombre-de-loubli/.
+https://portoliomatteobrandi.wordpress.com/portfolio/la-plume-noire-3-lombre-de-loubli/
